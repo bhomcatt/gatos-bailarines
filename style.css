@@ -1,0 +1,14 @@
+body{
+    background-color:blanchedalmond;
+    font-family:'Rowdies';
+}
+.header_div{
+    background-color:brown;
+    color:white;
+}
+.header_div p{
+    font-family:'Supermercado One';
+    color:aquamarine;
+    letter-spacing: 2px;
+    font-size:12px;
+}
